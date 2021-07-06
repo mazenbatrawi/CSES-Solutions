@@ -1,1 +1,2 @@
-# CSES-Solutions
+CSES solutions
+https://cses.fi/problemset/list/
