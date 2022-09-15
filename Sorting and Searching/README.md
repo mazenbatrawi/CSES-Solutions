@@ -1,1 +1,1 @@
-Sorting and Searching solutions
+Sorting and Searching Solutions
